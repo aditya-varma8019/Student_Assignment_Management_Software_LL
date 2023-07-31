@@ -1,0 +1,21 @@
+7 4
+1 ravi 2 1 list 1 20/03/2023 not-submitted 10 10
+2 raju 1 1 list 1 20/03/2023 not-submitted 10 10
+3 ram 4 2 tree 2 21/03/2023 not-submitted 9 9
+4 priya 3 2 tree 2 21/03/2023 not-submitted 9 9
+5 supriya 6 3 linked_list 1 22/03/2023 evaluated 8 10
+6 kishore 7 3 linked_list 1 22/03/2023 evaluated 8 9
+11 yash 13 100 bst 4 25/03/2023 evaluated 5 4
+1 B-Tree declared 1
+1 not-submitted 5 5
+8 list declared 2
+1 declared 10 10
+3 declared 9 9
+9 tree declared 3
+4 submitted 5 6
+5 submitted 11 10
+6 not-submitted 11 11
+10 pascal declared 3
+12 submitted 10 10
+15 submitted -1 2
+17 submitted 2 -1
